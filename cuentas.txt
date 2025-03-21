@@ -1,0 +1,3 @@
+Mario,Vega,7208677,972809726,Av. Los Nogales,MVega,1234,6270.0,6000.0
+Ramon,Leon,7526661,963901722,Av. El Paraiso,RLeon,9072,120.0,0.0
+

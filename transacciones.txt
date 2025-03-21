@@ -1,0 +1,11 @@
+MVega,Deposito,500.0
+MVega,Retiro,150.0
+MVega,Prestamo,3000.0
+MVega,Transferencia,120.0
+RLeon,Transferencia,120.0
+NPomodoro,Deposito,1700.0
+NPomodoro,Deposito,0.0
+MVega,Retiro,50.0
+MVega,Retiro,10.0
+MVega,Deposito,100.0
+MVega,Prestamo,3000.0
